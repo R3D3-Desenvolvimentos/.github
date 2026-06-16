@@ -47,7 +47,7 @@ Atuamos em duas frentes que se reforçam:
 
 ### 🚗 [Conduz Brasil »](https://github.com/R3D3-Desenvolvimentos/conduz-brasil)
 Marketplace que conecta alunos a instrutores e autoescolas para agendamento de aulas de direção.
-Busca por mapa, agendamento, pagamento e chat em tempo real. **[Demo ao vivo »](https://drive-flex-connect.lovable.app)**
+Busca por mapa, agendamento, pagamento e chat em tempo real. **[Demo ao vivo »](https://conduzbrasil.com)**
 
 ### 🎮 [NexosGG »](https://github.com/R3D3-Desenvolvimentos/nexosgg)
 Plataforma *link-in-bio* para gamers e streamers, com presença do Discord ao vivo, player de áudio,
