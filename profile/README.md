@@ -9,7 +9,7 @@ do back-office corporativo ao produto digital pronto para o mercado.
 
 [![Site](https://img.shields.io/badge/Site-r3d3s.com.br-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://r3d3s.com.br)
 [![Email](https://img.shields.io/badge/Contato-atendimento@r3d3s.com.br-1D4ED8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:atendimento@r3d3s.com.br)
-[![Brasil](https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=mapbox&logoColor=white)](#)
+![Brasil](https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=mapbox&logoColor=white)
 
 </div>
 
@@ -40,18 +40,22 @@ Atuamos em duas frentes que se reforçam:
 
 ---
 
-## 🚀 Alguns projetos
+## 🚀 Nossos produtos
 
 > Trabalhamos com código proprietário e contratos de cliente, então boa parte dos repositórios é
-> privada. Abaixo, uma amostra do que construímos. Demonstrações ao vivo sob solicitação.
+> privada. Os repositórios abaixo são **vitrines** — apresentam o produto sem expor o código-fonte.
 
-- **Conduz Brasil** — Marketplace que conecta alunos a instrutores e autoescolas para agendamento de aulas de direção.
-- **NexosGG** — Plataforma *link-in-bio* para a comunidade gamer e de streamers, com presença no Discord em tempo real e painel personalizável.
-- **Plataforma Wiki / Base de Conhecimento** — Sistema de documentação colaborativa para times.
-- **Dashboards de atendimento com IA** — Monitoramento em tempo real de agentes de WhatsApp, com métricas, intenções e análise de sentimento.
-- **Integrações TOTVS Fluig** — Customizações de manufatura, back-office e assinatura digital (Docusign/Clicksign) para indústrias e operações de grande porte.
+### 🚗 [Conduz Brasil »](https://github.com/R3D3-Desenvolvimentos/conduz-brasil)
+Marketplace que conecta alunos a instrutores e autoescolas para agendamento de aulas de direção.
+Busca por mapa, agendamento, pagamento e chat em tempo real. **[Demo ao vivo »](https://drive-flex-connect.lovable.app)**
 
-<!-- Repositórios de vitrine serão fixados aqui assim que definidos. -->
+### 🎮 [NexosGG »](https://github.com/R3D3-Desenvolvimentos/nexosgg)
+Plataforma *link-in-bio* para gamers e streamers, com presença do Discord ao vivo, player de áudio,
+widgets de plataformas e motor de temas — tudo gerenciável por um painel em tempo real.
+
+### Também já entregamos
+- **Dashboards de atendimento com IA** — monitoramento em tempo real de agentes de WhatsApp (métricas, intenções, sentimento).
+- **Integrações TOTVS Fluig** — manufatura, back-office e assinatura digital (Docusign/Clicksign) para indústrias e grandes operações.
 
 ---
 
